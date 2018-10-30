@@ -1,0 +1,9 @@
+published: true
+theme: night
+theme-override : template/css/PITCHME.css
+logo: template/img/Kubernetes.png
+logo-position : top-left
+footnote: "KubeClass - A basic Kubernetes intro"
+highlight : atom-one-dark
+layout : center
+transition : none
